@@ -14,7 +14,7 @@ sudo ufw allow OpenSSH
 sudo ufw allow proto tcp from any to any port 80,443
 sudo ufw enable
 
-# PHP 7.4
+# PHP 8.0
 sudo apt install -y \
 apt install -y \
 php8.0-cli \
